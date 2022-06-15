@@ -6,7 +6,6 @@
 # Current Projects
 ## Development Work 2022
 - [x] In Progress
-- [ ] [Update-prestashop-stores](https://github.com/good-health-naturally-workplace/Update-prestashop-stores)
 - [ ] Central database
 #### Technical Team
 @pedroalvarez68

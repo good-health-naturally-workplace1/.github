@@ -5,8 +5,6 @@
 > ## [Top 20 Products](https://goodhealthnaturally.com/215-top-20-products)<br><br>
 # Current Projects
 ## Development Work 2022
-- [x] In Progress
-- [ ] Central database
 #### Technical Team
 @pedroalvarez68
 @Bicko51

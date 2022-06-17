@@ -4,9 +4,4 @@
 > ## [Offers](https://goodhealthnaturally.com/223-offers)<br><br>
 > ## [Top 20 Products](https://goodhealthnaturally.com/215-top-20-products)<br><br>
 # Current Projects
-## Development Work 2022
-#### Technical Team
-@pedroalvarez68
-@Bicko51
-@seo4goodhealth
-@Umaelmah
+## Development Project 2022

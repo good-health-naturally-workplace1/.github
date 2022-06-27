@@ -6,7 +6,7 @@
 ## Table Of Contents
 #### Tools In Use
 ![badmath](https://img.shields.io/badge/Good%20Health%20Naturally%20USE%20--%3E-PrestaShop-orange)
-![badmath](https://img.shields.io/badge/Good%20Health%20Naturally%20USE%20--%3E-WordPress-lightgrey)
+![badmath](https://img.shields.io/badge/Good%20Health%20Naturally%20USE%20--%3E-WordPress-lightgrey)<br>
 ![badmath](https://img.shields.io/badge/Good%20Health%20Naturally%20USE%20--%3E-PHP-blue)
 ![badmath](https://img.shields.io/badge/Good%20Health%20Naturally%20USE%20--%3E-MySQL-orange)
 

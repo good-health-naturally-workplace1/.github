@@ -12,4 +12,7 @@
 
 #### Quick Access
 #### - [Development Plan 2022](https://github.com/orgs/good-health-naturally-workplace1/projects/1)
+#### - [Canada retail](https://github.com/orgs/good-health-naturally-workplace1/projects/1)
+#### - [UK retail](https://github.com/orgs/good-health-naturally-workplace1/projects/1)
+
 
